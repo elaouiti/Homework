@@ -51,7 +51,7 @@ p {
 
 /* Jumbotron  */
 .jumbotron {
-  background-image: url(../images/rockOn_dark.jpg);
+  background-image: url(../images/Mobile_Screenshots.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
@@ -81,6 +81,16 @@ p {
 }
 .cardContainer {
   text-align: center;
+}
+.card-title {
+  background-image: url(../images/Web_Process.png);
+}
+.img-fluid {
+  background: url(../images/User_Persona.png);
+  background-size: cover;
+  padding: 500px;
+  display: flex;
+  align-items: center;
 }
 
 /* Content */
